@@ -1,6 +1,6 @@
 ### Hi there 👋, I am
 
-![](Apoorve73.gif)
+![](https://github.com/Apoorve73/Apoorve73/blob/master/Apoorve73.gif)
 
 We have made our way to SPACE For exploring a new space, with CODE (such as [BURN_BABY_BURN](https://github.com/chrislgarry/Apollo-11) and [POWER OF TEN](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code#:~:text=The%20Power%20of%2010%20Rules,to%20review%20or%20statically%20analyze.) ) that had once started with a simple "HELLO WORLD" program.
 
