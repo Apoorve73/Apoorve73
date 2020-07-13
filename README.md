@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](Apoorve73.gif)
 <!--
 **Apoorve73/Apoorve73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
