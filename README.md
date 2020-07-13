@@ -11,7 +11,7 @@ We have made our way to SPACE For exploring a new space, with CODE (such as [BUR
 
 ✨ Astronomy also counts in my Passion
 
-👨‍🎓 ***Founder*** @L-ByDo {learningbydoing} Community, ***Core Team*** Memeber @TesseractCoding and @PythJS
+👨‍🎓 ***Co-Founder*** @L-ByDo {learningbydoing} Community, ***Core Team*** Member @TesseractCoding and @PythJS
 <!--
 **Apoorve73/Apoorve73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
