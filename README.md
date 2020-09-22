@@ -20,6 +20,6 @@ Know more about me:
 - 🔭 I’m currently working on Web Scraping Technologies
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on Data Science and Web Dev. based projects.<!-- 🤔 I’m looking for help with ... - 💬 Ask me about -->
-- 📫 Connect with this Social Geek here: [LinkedIn](www.linkedin.com/in/apoorve-goyal) and [Twitter](https://twitter.com/Apoorve582)<!-- - 😄 Pronouns: -->
+- 📫 Connect with this Social Geek here: [LinkedIn](https://www.linkedin.com/in/apoorve-goyal) and [Twitter](https://twitter.com/Apoorve582)<!-- - 😄 Pronouns: -->
 - ⚡ Factual fact: Give me a Constructive Feedback, and you will find a Full Upgraded Version of mine!
 
