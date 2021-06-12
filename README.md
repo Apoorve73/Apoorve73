@@ -23,4 +23,5 @@ Know more about me:
 - 📫 Connect with this Social Geek here: [LinkedIn](https://www.linkedin.com/in/apoorve-goyal) and [Twitter](https://twitter.com/Apoorve582)<!-- - 😄 Pronouns: -->
 - ⚡ Factual fact: Give me a Constructive Feedback, and you will find a Full Upgraded Version of mine!
 
-### PROFILE VIEWS ![VisitorCount](https://profile-counter.glitch.me/Apoorve73/count.svg)
+### PROFILE VIEWS 
+![VisitorCount](https://profile-counter.glitch.me/Apoorve73/count.svg)
