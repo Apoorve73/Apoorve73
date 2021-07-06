@@ -19,7 +19,6 @@ Know more about me:
 
 - 🔭 I’m currently working on Web Scraping Technologies
 - 👯 I’m looking to collaborate on Data Science and Web Dev. based projects.<!-- 🤔 I’m looking for help with ... - 💬 Ask me about -->
-- 📫 Connect with this Social Geek here: [LinkedIn](https://www.linkedin.com/in/apoorve-goyal) and [Twitter](https://twitter.com/Apoorve582)<!-- - 😄 Pronouns: -->
 - ⚡ Factual fact: Give me a Constructive Feedback, and you will find a Full Upgraded Version of mine!
 
 ## 📈 Stats
@@ -72,3 +71,11 @@ Know more about me:
 
 ### PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/Apoorve73/count.svg)
+
+<h2>📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/apoorve-goyal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Response_200"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:apoorve73@gmail.com?subject=Hey%20Apoorve,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/apoorve_goyal/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
