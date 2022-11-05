@@ -7,19 +7,23 @@ We have made our way to SPACE For exploring a new space, with CODE (such as [BUR
 ## I am,
  A person who believes in the *POWER OF CODE* to explore the hidden dimensions of **The Universe**!
 
-<👨‍💻/> A Quick Learner and a *Developer* who is **Pythonic, Web Technologies and Data Science Enthusiast**.
-
-✨ Astronomy also counts in my Passion
-
-👨‍🎓 ***Co-Founder*** @L-ByDo {learningbydoing} Community, ***Core Team*** Member @TesseractCoding and @PythJS
-<!--
-**Apoorve73/Apoorve73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Know more about me:
 
-- 🔭 I’m currently working on Web Scraping Technologies
-- 👯 I’m looking to collaborate on Data Science and Web Dev. based projects.<!-- 🤔 I’m looking for help with ... - 💬 Ask me about -->
-- ⚡ Factual fact: Give me a Constructive Feedback, and you will find a Full Upgraded Version of mine!
+- 👨‍🎓 I'm a **2023 graduate** student at ZHCET, AMU, currently undertaking my Bachelor's in Computer Engineering. 
+Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler Design are the academic areas of study I am most interested in. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
+
+- ⚡️ I've had expertise using the Agile Methodology to build upon large-scale systems while working on multi-disciplinary projects. **On a technical front**, I'm skilled in Automation (Python), Frontend (React), Backend Development (Flask, Django, Rails), various AWS Services (lambda, ElasticSearch, SQS), and Data Mining and Analysis.
+
+- 👨🏻‍💻 I'm also a **Hackathon enthusiast**, and have won the Postman API Hack, finished 2nd in BWLU Hack, 3rd in RoboHack1.0, and Top 5 in AMUHack 1.0. I have also volunteered as a mentor at Build With Let's Upgrade (Best Mentor Award), MLH-sponsored HackCBS 3.0 & 4.0, and HackOff 3.0.
+
+- ✨ On the **Community front**, I have a track record of being associated with various communities and clubs from being a Founder and Community Lead at Google Developer Student Clubs ZHCET, a Core Team Member at Codechef ZHCET and AMU Roboclub, to being an Organiser of one of the biggest 2-month long program "DevScript Winter of Code" with more than 3000+ participants and 100+ projects. My sessions and talks across the web demonstrate my unwavering passion for mentoring and teaching.
+
+- ⚡ Factual fact: _If this piques your interest, I will be more than happy to connect and build together, what **Makes an Impact.** 🙂_
+
+<!--
+**Apoorve73/Apoorve73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 ## 📈 Stats
 
