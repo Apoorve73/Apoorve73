@@ -28,15 +28,15 @@ Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler D
 ## 📈 Stats
 
 <div align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<!--   <div align="center"> -->
+<!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img
         align="left"
         width="396"
         src="https://github-readme-streak-stats.herokuapp.com/?user=apoorve73&theme=react&border=61dafb&hide_border=true"
         alt="zumrudu-anka"
       />
-    </a>
+    </a> -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img
         align="right"
@@ -44,8 +44,8 @@ Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler D
         src="https://github-readme-stats.vercel.app/api?username=apoorve73&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
       />
     </a>
-  </div>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+<!--   </div> -->
+<!--   <br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
   <div align="center" title="Go to Source">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
@@ -56,7 +56,7 @@ Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler D
     </a>
   </div>
   <br />
-  <div align="center">
+<!--   <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
         src="https://activity-graph.herokuapp.com/graph?username=apoorve73&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
@@ -64,7 +64,7 @@ Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler D
         width="100%"
       />
     </a>
-  </div>
+  </div> -->
   <br />
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
