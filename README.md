@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Apoorve Goyal
 
-![](https://github.com/Apoorve73/Apoorve73/blob/master/apoorve.png)
+<p align="center">
+    <img width="200" src="https://github.com/Apoorve73/Apoorve73/blob/master/apoorve_profile.png" alt="Material Bread logo">
+</p>
 
 We have made our way to SPACE For exploring a new space, with CODE (such as [BURN_BABY_BURN](https://github.com/chrislgarry/Apollo-11) and [POWER OF TEN](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code#:~:text=The%20Power%20of%2010%20Rules,to%20review%20or%20statically%20analyze.) ) that had once started with a simple "HELLO WORLD" program.
 
@@ -10,6 +12,8 @@ We have made our way to SPACE For exploring a new space, with CODE (such as [BUR
 
 Know more about me:
 
+- As a **Software Engineer at HackerRank**, I work on building and improving the platform that helps millions of developers and companies assess and improve their coding skills. I use my expertise in Automation (Python), Frontend (React, Next.js), Backend Development (NestJS, Rails, Flask), and various AWS Services (Lambda, ElasticSearch, SQS) to deliver high-quality and scalable solutions.✅
+  
 - 👨‍🎓 I'm a **2023 graduate** student at ZHCET, AMU, currently undertaking my Bachelor's in Computer Engineering. 
 Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler Design are the academic areas of study I am most interested in. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
 
