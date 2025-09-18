@@ -75,9 +75,6 @@ Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler D
   </div>
 </div>
 
-### PROFILE VIEWS 
-![VisitorCount](https://profile-counter.glitch.me/Apoorve73/count.svg)
-
 <h2>📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/apoorve-goyal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
